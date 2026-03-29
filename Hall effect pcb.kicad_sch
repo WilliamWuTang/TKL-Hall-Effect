@@ -5362,6 +5362,16 @@
 		)
 		(uuid "31a64201-6e9f-455a-8a45-831d95d60ba2")
 	)
+	(text "USB"
+		(exclude_from_sim no)
+		(at 328.676 30.988 0)
+		(effects
+			(font
+				(size 5 5)
+			)
+		)
+		(uuid "39abc349-1767-4484-b5f3-cf1acd4706e6")
+	)
 	(text "Fiducials"
 		(exclude_from_sim no)
 		(at 690.372 29.464 0)
